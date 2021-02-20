@@ -1,6 +1,6 @@
 # Sleepaway-Character-Sheets
 Sleepaway (by Jay Dragon): Character Sheets for Roll20
-This project started 2/18/2021 to work on digitizing the character sheets used for Sleepaway (A belonging-outside-belonging RPG by Jay Dragon)
+This project started 2/18/2021 (edit: completed 220/2021) to work on digitizing the character sheets used for Sleepaway (A belonging-outside-belonging RPG by Jay Dragon)
 
 Sleepaway can be purchased here: https://possumcreekgames.itch.io/sleepaway
 
