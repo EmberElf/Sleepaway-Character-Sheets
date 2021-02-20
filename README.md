@@ -6,7 +6,7 @@ Sleepaway can be purchased here: https://possumcreekgames.itch.io/sleepaway
 
 Offseason (an online supplement for Sleepaway) can be purchased here: https://possumcreekgames.itch.io/offseason-sleepaway
 
-Please note I do not own the rights to these games, while I have purchased them for my own personal use, I am merely creating an easier way for my friends and myself and others who own this game to be able to play online with an easier way of using their character sheets!
+Please note I do not own the rights to these games, while I have purchased them for my own personal use, I am merely creating an easier way for my friends and myself and others who own this game to be able to play online with an online editable character sheet!
 
 @EmberElf on GitHub and Steam
 @etstarkel on Instagram
